@@ -1,0 +1,222 @@
+Zavaznir
+The Momentous Land
+
+Reptile men
+Olm men
+Rodent men
+Serpent men
+Bat men
+Amphibian men
+Cave swallow men
+Cave fish men
+Serpent men
+Amphibian men
+Cave swallow men
+Reptile men
+Cave fish men
+Olm men
+Rodent men
+Reptile men
+Serpent men
+Bat men
+Olm men
+Cave swallow men
+Rodent men
+Antmen
+Cave swallow men
+Cave fish men
+Rodent men
+Bat men
+Amphibian men
+Serpent men
+Reptile men
+Olm men
+Amphibian men
+Cave swallow men
+Olm men
+Cave fish men
+Rodent men
+Reptile men
+Antmen
+Serpent men
+Serpent men
+Cave swallow men
+Bat men
+Reptile men
+Cave fish men
+Olm men
+Amphibian men
+Cave fish men
+Antmen
+Reptile men
+Cave swallow men
+Amphibian men
+Rodent men
+Serpent men
+Olm men
+Bat men
+Olm men
+Cave fish men
+Serpent men
+Amphibian men
+Bat men
+Reptile men
+Olm men
+Reptile men
+Cave swallow men
+Antmen
+Cave fish men
+Bat men
+The Rack of Murdering, Dwarves
+ Worship List
+  Nuglush Crypthog the Hideous Biles, deity: death, blight, disease
+  Doren Wealthstaxes, deity: wealth
+  Ber Bronzeoiled, deity: minerals, metals
+  The Bright, deity: jewels
+  Deler Crestedbronze, deity: mountains
+  Kesting Quakescraped the Crazed Savagery, deity: fortresses, war, victory
+  Nokgol the Guise of Riddles, deity: mist
+  Ad Goodgladness, deity: healing
+  Akim Castleleads the Noble, deity: discipline, order
+  Komut Fuchsiacharm, deity: love
+ king List
+  [*] Dodok Archpass (b.??? d. 5, Reign Began: 1), *** Original Line, Never Married
+      No Children
+      Worshipped Nuglush Crypthog the Hideous Biles (65%)
+  [*] Avuz Livingoils (b.??? d. 5, Reign Began: 5), *** New Line, Never Married
+      No Children
+      Worshipped Nuglush Crypthog the Hideous Biles (7%)
+  [*] Fath Bridgedequals (b.???, Reign Began: 5), *** New Line, Never Married
+      3 Children -- Ages: 8 7 6
+      Worships Nokgol the Guise of Riddles (87%)
+The Buff Satins, Elves
+ Worship List
+  Ale the Scaly Roots, force: nature, rivers
+ druid List
+  [*] Etini Clearinghair (b.???, Reign Began: 1), *** Original Line, Married
+      3 Children -- Ages: 8 7 6
+      Worships Ale the Scaly Roots (92%)
+ princess List
+  [*] Are Earthveiled (b.???, Reign Began: 1), *** Original Line, Never Married
+      No Children
+      Worships Ale the Scaly Roots (96%)
+ queen List
+  [*] Atha Waxycrows (b.???, Reign Began: 1), *** Original Line, Married
+      2 Children -- Ages: 8 7
+      Worships Ale the Scaly Roots (91%)
+Strulufanker, Kobolds
+The Empire of Gullies, Humans
+ Worship List
+  Ulet, deity: inspiration, art
+  Donu the Ash of Burying, deity: death
+  Lastrik Shamesmear the Strange Soot of Sadness, deity: misery
+  Asseg, deity: light
+  Obin, deity: twilight, the dawn, the sun, nature
+  Sasir, deity: freedom
+ law-giver List
+  [*] Ecsha Sweetplotted (b.???, Reign Began: 2), *** Original Line, Never Married
+      2 Children -- Ages: 8 7
+      Worships Obin (100%)
+The Named Plague, Goblins
+ master List
+  [*] Bugsud Larvaknew (b.???, Reign Began: -1), *** Original Line, Never Married
+      No Children
+The Sweet Lace, Elves
+ Worship List
+  Ile, force: nature, rivers
+ druid List
+  [*] Ameli Steamroars (b.???, Reign Began: 1), *** Original Line, Never Married
+      1 Child -- Ages: 8
+      Worships Ile (91%)
+ princess List
+  [*] Amayi Spikewonder (b.???, Reign Began: 1), *** Original Line, Never Married
+      1 Child -- Ages: 6
+      Worships Ile (96%)
+ queen List
+  [*] Amiya Fishmatched (b.???, Reign Began: 1), *** Original Line, Never Married
+      No Children
+      Worships Ile (100%)
+Dlusigis, Kobolds
+The Sorcerous Flies, Goblins
+ master List
+  [*] Pelese Cryptfrothed the Evil of Spurts (b.???, Reign Began: -1), *** Original Line, Never Married
+      No Children
+The Rack of Heroes, Dwarves
+ Worship List
+  Osram, deity: wealth
+  Ok Spinesbeaks, deity: mountains
+  Tobul the Wondrous Mirth, deity: minerals, jewels, dance
+  Nadak, deity: fortresses
+  Ral the Mountainous Steel, deity: metals
+  Os, deity: death, war, valor
+  Ordir the Splattered Outrage, deity: chaos
+  Nosim, deity: peace
+  Kastol the Free Autonomy, deity: freedom
+  Zuglar Wanderedbraves the Renown of Directing, deity: the rain, thunder, storms
+  Tarag the Puke of Bile, deity: muck
+  The Sadness of Poison, deity: misery, torture
+ king List
+  [*] Dumed Fastenedoil (b.???, Reign Began: 1), *** Original Line, Never Married
+      2 Children -- Ages: 7 6
+      Worships Ordir the Splattered Outrage (68%)
+The Nation of Gorges, Humans
+ Worship List
+  Ithru the Brilliances of Vigor, deity: courage
+  Mukca, deity: fame, rumors, truth
+  Uthral, deity: longevity
+  Alnos the Routed, deity: theft, fortresses, war, victory
+  Xubkib the Unholy, deity: death, murder
+  Ikim the Legendary, deity: rulership
+ law-giver List
+  [*] Thuthu Wirecrew (b.???, Reign Began: 2), *** Original Line, Married
+      2 Children -- Ages: 8 7
+      Worships Alnos the Routed (96%)
+The Odorous Sin, Goblins
+ master List
+  [*] Sapi (b.???, Reign Began: -1), *** Original Line, Never Married
+      No Children
+The Infinite Glacier, Elves
+ Worship List
+  Ricote, force: nature, rivers
+ druid List
+  [*] Yemi Fieryclearing (b.???, Reign Began: 1), *** Original Line, Married
+      2 Children -- Ages: 8 6
+      Worships Ricote (99%)
+ princess List
+  [*] Iye Embraceddrinkers (b.???, Reign Began: 1), *** Original Line, Never Married
+      2 Children -- Ages: 8 7
+      Worships Ricote (96%)
+ queen List
+  [*] Atera Skincontrols (b.???, Reign Began: 1), *** Original Line, Never Married
+      2 Children -- Ages: 7 6
+      Worships Ricote (98%)
+The Vault of Spiraling, Dwarves
+ Worship List
+  Avuz the Fountains of Sweltering, deity: earth, volcanos
+  Ifin the Justice of Stances, deity: wealth, trade, the sky, the wind
+  Ushrir the Gates of Breaching, deity: fortresses, war, victory
+  The Dominant, deity: jewels, courage
+  Gulgun, deity: death, muck
+  Onget Goldcrystal, deity: mountains, caverns
+  Migrur Drunkensplashed the Blue Dive, deity: coasts, lakes
+  Olin, deity: crafts, creation
+  Ucat, deity: labor, day
+ king List
+  [*] Iton Hailrag (b.??? d. 1, Reign Began: 1), *** Original Line, Never Married
+      No Children
+      Worshipped Gulgun (100%)
+  [*] Melbil Tealseal (b.???, Reign Began: 2), *** New Line, Never Married
+      No Children
+      Worships Ifin the Justice of Stances (100%)
+The Meandering Confederacy, Humans
+ Worship List
+  The Sable Flute of Aquamarines, deity: scholarship, writing, art, beauty
+  Sutar Cryptdies, deity: death
+  Seba, deity: day
+  Ubet, deity: misery, torture
+  Thakom Duskbeaches the Saffron Glade, deity: forgiveness, nature
+  Tacnu the Ashen Menace, deity: wisdom, murder
+  Rakbin Earthenmosses, deity: the seasons
+  Radir, deity: mist
+  Duto, deity: agriculture, food, fertility
+  Thomod, deity: family
