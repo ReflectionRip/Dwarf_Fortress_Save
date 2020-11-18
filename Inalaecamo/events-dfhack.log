@@ -9,3 +9,7 @@
 [2020-11-06T16:35:42-0500] DFHack 0.47.04-r3-0-gb343d008 on Windows; cwd md5: e7f5108a28; save: region1; SC_MAP_LOADED; game type DWARF_MAIN (0)
 [2020-11-06T18:26:32-0500] DFHack 0.47.04-r3-0-gb343d008 on Windows; cwd md5: e7f5108a28; save: region1; SC_MAP_UNLOADED; game type DWARF_MAIN (0)
 [2020-11-06T18:26:32-0500] DFHack 0.47.04-r3-0-gb343d008 on Windows; cwd md5: e7f5108a28; save: region1; SC_WORLD_UNLOADED; game type DWARF_MAIN (0)
+[2020-11-17T11:33:31-0500] DFHack 0.47.04-r3-0-gb343d008 on Windows; cwd md5: e7f5108a28; save: Inalaecamo; SC_WORLD_LOADED; game type DWARF_MAIN (0)
+[2020-11-17T11:33:31-0500] DFHack 0.47.04-r3-0-gb343d008 on Windows; cwd md5: e7f5108a28; save: Inalaecamo; SC_MAP_LOADED; game type DWARF_MAIN (0)
+[2020-11-17T20:02:22-0500] DFHack 0.47.04-r3-0-gb343d008 on Windows; cwd md5: e7f5108a28; save: Inalaecamo; SC_MAP_UNLOADED; game type DWARF_MAIN (0)
+[2020-11-17T20:02:22-0500] DFHack 0.47.04-r3-0-gb343d008 on Windows; cwd md5: e7f5108a28; save: Inalaecamo; SC_WORLD_UNLOADED; game type DWARF_MAIN (0)
